@@ -1,4 +1,4 @@
-import { Note } from "../classes/Note";
+import { Note } from "../src/app/classes/Note";
 
 describe("Note", () => {
   it("values from number", () => {

@@ -1,17 +1,4 @@
-enum NoteName {
-  "C",
-  "C#",
-  "D",
-  "D#",
-  "E",
-  "F",
-  "F#",
-  "G",
-  "G#",
-  "A",
-  "A#",
-  "B"
-}
+import { NoteName } from "./NoteName";
 
 export class Note {
   public value: number;
